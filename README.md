@@ -1,16 +1,7 @@
-# navigation
+# Приложение с окном авторизации и регистрации
 
-A new Flutter project.
+## Использование Navigate.push и Navigate.pop
 
-## Getting Started
+![image](https://github.com/tech-zanuda/navigation/assets/145598465/c7a1ee1f-c5e4-4dfe-8bc3-0affaaa85610)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/tech-zanuda/navigation/assets/145598465/1f367f1f-e4c4-49ac-90d6-213fdbb336d4)
